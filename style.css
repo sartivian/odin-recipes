@@ -1,0 +1,29 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: black;
+}
+
+h1 {
+    text-align: center;
+    color: orangE;
+    text-shadow: 2px 2px orangered;
+}
+
+li {
+    display: flex;
+    border: 2px solid orange;
+    padding: 18px;
+    align-items: center;
+    justify-content: center;
+    margin: 20px;
+}
+
+li a {
+    text-decoration: none;
+    color: white;
+    text-shadow: 2px 2px orangered;
+    
+}
